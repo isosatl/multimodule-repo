@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>FileVault Package Properties</comment>
+<entry key="buildCount">1</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="dependencies" />
+<entry key="packageFormatVersion">2</entry>
+<entry key="description">multimodule-name Package</entry>
+<entry key="group">multimodule-pack-grp</entry>
+<entry key="name">multimodule-archetype-content</entry>
+<entry key="path">/etc/packages/multimodule-pack-grp/multimodule-archetype-content-1.0-SNAPSHOT.zip</entry>
+</properties>
