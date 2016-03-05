@@ -1,0 +1,34 @@
+Vlt files
+*.vlt
+
+*.jar
+
+# Vi Files
+*~
+*.swp
+*.swo
+
+# Intellij Files #
+**/.idea/**
+*.idea/**
+*.iml
+*.ipr
+*.iws
+
+# Eclipse Files #
+**/.settings/**
+*.project
+
+# Maven Files #
+**/target/*
+
+**/osgi/.idea/*
+
+# OSX Files #
+*.DS_Store
+
+
+# old git version
+stat.file
+target/*
+test-multimodule/*/install/*
